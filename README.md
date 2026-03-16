@@ -1,4 +1,4 @@
-# Pathology Graph Neural Network for WSI Analysis
+# Pathology-Prior Driven Substructure-Aware Graph Neural Network for Whole Slide Image Classification (Under Review by Scientifc Reports)
 
 This repository contains code for processing Whole Slide Images (WSI) of breast cancer sentinel lymph nodes, extracting patch-level features, constructing pathology-prior driven graphs, and training a substructure-aware Graph Isomorphism Network (GIN) for classification.
 
@@ -98,13 +98,6 @@ Adjust other parameters in the script as needed for your dataset.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
-
-If you use this code, please cite:
-
-```
-Lu, W., Minhas, F. (2021). Pathology-prior driven substructure-aware graph neural network for cancer metastasis prediction in whole slide images. [Details if published]
-```
 
 ## Contributing
 
