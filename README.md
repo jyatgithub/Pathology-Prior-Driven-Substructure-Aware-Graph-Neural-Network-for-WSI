@@ -1,4 +1,6 @@
-# Pathology-Prior Driven Substructure-Aware Graph Neural Network for Whole Slide Image Classification (Under Review by Scientifc Reports)
+# Pathology-Prior Driven Substructure-Aware Graph Neural Network for Whole Slide Image Classification 
+
+# Under Review by Scientifc Reports Now!
 
 This repository contains code for processing Whole Slide Images (WSI) of breast cancer sentinel lymph nodes, extracting patch-level features, constructing pathology-prior driven graphs, and training a substructure-aware Graph Isomorphism Network (GIN) for classification.
 
