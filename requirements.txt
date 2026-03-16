@@ -1,0 +1,17 @@
+torch>=1.7.0
+torchvision>=0.8.0
+torch-geometric>=1.7.0
+torch-scatter>=2.0.0
+torch-sparse>=0.6.0
+torch-cluster>=1.5.0
+torch-spline-conv>=1.2.0
+openslide-python>=1.1.0
+numpy>=1.19.0
+scipy>=1.5.0
+scikit-image>=0.17.0
+tqdm>=4.50.0
+networkx>=2.5.0
+scikit-learn>=0.24.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
